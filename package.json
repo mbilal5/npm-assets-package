@@ -1,0 +1,7 @@
+{
+	"name" : "@mbilal-io/web-assets",
+	"version": "1.0.0",
+	"scripts": {
+		"install": "pwsh ./install.ps1"
+	}
+}
